@@ -1,0 +1,18 @@
+## Interface: 120000, 120001, 120005, 120007, 120100
+## Title: TooltipEnhance
+## Version: 1.0.0
+## Author: Crazy
+## Category: UI
+## Notes: Configurable tooltip enhancements.
+## IconTexture: Interface\AddOns\TooltipEnhance\TooltipEnhance_Icon.tga
+## SavedVariables: TESettings
+
+TooltipEnhance.lua
+TooltipEnhance_Settings.lua
+modules/TooltipEnhance_Safe.lua
+modules/TooltipEnhance_Color.lua
+modules/TooltipEnhance_Style.lua
+modules/TooltipEnhance_Font.lua
+modules/TooltipEnhance_Ids.lua
+modules/TooltipEnhance_Inspect.lua
+modules/TooltipEnhance_PlayerExtras.lua

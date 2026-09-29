@@ -1,0 +1,28 @@
+# IDE and editor metadata
+.idea/
+.vscode/
+.fleet/
+*.iml
+*.suo
+*.user
+
+# Local AI/agent configuration
+.codex/
+.agents/
+.reference/
+reference/
+AGENTS.md
+
+# Local addon/runtime files
+WTF/
+SavedVariables/
+*.log
+
+# Design/source assets kept locally but not shipped by the addon
+data/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
